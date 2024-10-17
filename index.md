@@ -12,7 +12,7 @@ I recently graduated with a Master's degree in Information and Communication Tec
 
 Before that, I worked in the telecommunications industry, supporting the planning of the 5G technology upgrade for over 300 sites in the US and Canada. It was a fantastic experience collaborating with project managers, construction crews, and field technicians, all while being part of the launch of one of the latest telecom technologies and helping people stay connected.
 
-Now, I’m on the lookout for the perfect opportunity to dive deeper into data science. In the meantime, I'm continuing to learn relevant technologies for my professional career, working on personal projects, and, of course, polishing my German skills.
+In my free time, I'm still keeping up with the latest tech, working on my own projects, and, of course, brushing up on my German.
 
 ---
 
@@ -27,7 +27,11 @@ Now, I’m on the lookout for the perfect opportunity to dive deeper into data s
   
 ### Cloud Platforms
 + Azure Machine Learning 
-+ AWS (e.g., SageMaker, QuickSight) 
++ AWS (e.g., SageMaker, QuickSight)
+
+### Collaboration Tools
++ Jira
++ Confluence
 
 ### Data Science
 + Machine Learning (e.g., supervised and unsupervised learning) 
@@ -35,9 +39,5 @@ Now, I’m on the lookout for the perfect opportunity to dive deeper into data s
 + Predictive Analytics (e.g., regression analysis, time series forecasting) 
 + Data Cleaning and Preprocessing
 + Data Visualization (e.g., Matplotlib, Seaborn, Plotly)
-
-### Collaboration Tools
-+ Jira
-+ Confluence
 
 ---
