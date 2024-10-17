@@ -1,7 +1,10 @@
 
 
 # About
-<img src="pictures/profile-pic.png" alt="Profile Image" style="width:150px; height:150px;"/> 
+
+<div style="text-align: center;">
+  <img src="pictures/profile-pic.png" alt="Profile Image" style="width:150px; height:150px;"/> 
+</div>
 
 ---
 
