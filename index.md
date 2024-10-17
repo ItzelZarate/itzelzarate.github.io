@@ -1,12 +1,9 @@
-
-
 # About
 
 <div style="text-align: center;">
   <img src="pictures/profile-pic.png" alt="Profile Image" style="width:150px; height:150px;"/> 
 </div>
 
----
 
 Hi, I'm Itzel. I am originally from Mexico, but I decided to embark on the adventure of getting a Master's degree in Germany, learning about German culture and opening myself up to a new perspective on life.
 
