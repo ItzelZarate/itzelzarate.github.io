@@ -1,33 +1,17 @@
 
 
-# ![Profile Image](profile-image-url.jpg) Itzel Zarate, **MSc**
+# <img src="pictures/profile-pic.png" alt="Profile Image" style="width:150px; height:150px;"/> Itzel Zarate, **MSc**
+
 
 ---
 
 ### About me
 
-Motivated and versatile data enthusiast with a Master's Degree in Information and Communications Technology. I am proficient in data analysis and modeling and am always looking for new challenges and new technologies to learn. I have experience implementing machine learning-based solutions to business use cases, utilizing project management methodologies such as Agile. I work efficiently both independently and in cross-functional teams.
+Hi, I'm Itzel. I am originally from Mexico, but I decided to embark on the adventure of getting a Master's degree in Germany, learning about German culture and opening myself up to a new perspective on life.
 
----
+I recently graduated with a Master's degree in Information and Communication Technology from FAU Erlangen. And in the last few years, I had the opportunity to work with amazing teams and experts in the field of data science, where I developed AI-based solutions for various use cases in the automotive and financial sectors.
 
-<!-- Social Media Links -->
-<div style="text-align: center;">
-  <a href="https://github.com/your-github-username">
-    <img src="github-icon-url.png" alt="GitHub" width="32" height="32">
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/zarateitzel">
-    <img src="linkedin-icon-url.png" alt="LinkedIn" width="32" height="32">
-  </a>
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="twitter-icon-url.png" alt="Twitter" width="32" height="32">
-  </a>
-</div>
-
----
-
-<a href="mailto:izaratez@outlook.com">
-  <button style="background-color: #f4f4f4; border: 1px solid #ccc; padding: 10px; font-size: 16px; cursor: pointer; border-radius: 5px;">Contact me</button>
-</a>
+Previously, I worked in the telecommunications sector where I planned the 5G technology upgrade of more than 300 sites in the US and Canada together with project managers, construction managers and field technicians. This experience was rewarding because I knew I was part of the release of the latest telecommunications technologies and I was helping people get connected.
 
 ---
 
