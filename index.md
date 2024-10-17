@@ -6,7 +6,7 @@
 
 ---
 
-Hi, I’m Itzel, and I’m originally from Mexico. A little while ago, I decided to embark on the adventure of getting a Master's degree in Germany. I wanted to learn more about German culture and gain a new perspective on life.
+Hi, I’m Itzel Zarate, and I’m originally from Mexico. A little while ago, I decided to embark on the adventure of getting a Master's degree in Germany. I wanted to learn more about German culture and gain a new perspective on life.
 
 I recently graduated with a Master's degree in Information and Communication Technology at FAU Erlangen. During my studies, I had the opportunity to work with amazing teams and experts in the field of data science, where I developed AI-based solutions for various projects in the automotive and financial sectors.
 
