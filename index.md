@@ -1,7 +1,7 @@
 
 
-# <img src="pictures/profile-pic.png" alt="Profile Image" style="width:150px; height:150px;"/> About
-
+# About
+<img src="pictures/profile-pic.png" alt="Profile Image" style="width:150px; height:150px;"/> 
 
 ---
 
