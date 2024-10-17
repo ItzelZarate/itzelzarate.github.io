@@ -5,8 +5,6 @@
 
 ---
 
-### About me
-
 Hi, I'm Itzel. I am originally from Mexico, but I decided to embark on the adventure of getting a Master's degree in Germany, learning about German culture and opening myself up to a new perspective on life.
 
 I recently graduated with a Master's degree in Information and Communication Technology from FAU Erlangen. And in the last few years, I had the opportunity to work with amazing teams and experts in the field of data science, where I developed AI-based solutions for various use cases in the automotive and financial sectors.
