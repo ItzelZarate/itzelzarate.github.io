@@ -18,8 +18,26 @@ Now, I’m on the lookout for the perfect opportunity to dive deeper into data s
 
 ## Skills
 
-### Database Design, Development, and Reporting
+### Programming Languages and Tools
 
-12+ years of experience in database/schema design, query tuning, index tuning, SQL development, troubleshooting locking and blocking issues, data analysis, custom reporting, and data visualization.
++ Python (e.g., Pandas, scikit-learn, statsmodels)
++ SQL
++ VSCode
++ Git
+  
+### Cloud Platforms
++ Azure Machine Learning 
++ AWS (e.g., SageMaker, QuickSight) 
+
+### Data Science
++ Machine Learning (e.g., supervised and unsupervised learning) 
++ Deep Learning (e.g., CNNs, LSTM)
++ Predictive Analytics (e.g., regression analysis, time series forecasting) 
++ Data Cleaning and Preprocessing
++ Data Visualization (e.g., Matplotlib, Seaborn, Plotly)
+
+### Collaboration Tools
++ Jira
++ Confluence
 
 ---
