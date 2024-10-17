@@ -11,7 +11,7 @@ I recently graduated with a Master's degree in Information and Communication Tec
 
 Previously, I worked in the telecommunications sector where I planned the 5G technology upgrade of more than 300 sites in the US and Canada together with project managers, construction managers and field technicians. This experience was rewarding because I knew I was part of the release of one of the latest telecommunications technologies and I was helping people get connected.
 
-
+Currently, I'm looking for the perfect position to continue my journey into data science. In parallel, I'm continuing to learn technologies relevant to the field, developing personal projects, and last but not least, polishing my German skills.
 
 ---
 
